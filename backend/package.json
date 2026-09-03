@@ -1,0 +1,22 @@
+{
+  "name": "1fi-emi-store-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Express + MongoDB API for the 1Fi EMI Store",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node seed.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^5.2.1",
+    "mongodb": "^7.6.0",
+    "mongoose": "^8.5.1",
+    "qs": "^6.16.0"
+  }
+}
