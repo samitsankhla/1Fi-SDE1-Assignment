@@ -1086,7 +1086,7 @@ Possible future enhancements include:
 
 **Samit Sankhla**
 
-1Fi SDE1 MongoDB Assignment for internship
+1Fi SDE1 MongoDB Assignment
 
 ------------------------------------------------------------------------
 
